@@ -1,4 +1,4 @@
-// date - 26 May 2026
+// 26 May 2026
 
 #include <bits/stdc++.h>
 using namespace std;
